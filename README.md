@@ -1,5 +1,5 @@
 <!-- Background image with semi-transparent overlay -->
-<div align="center" style="background-image: url('https://github.com/RomanVanHalen/RomanVanHalen/blob/main/DALL%C2%B7E%202025-03-18%2021.38.43%20-%20A%20dynamic%20image%20of%20an%20ancient%20battlefield%20at%20dusk%2C%20with%20ruins%20and%20scattered%20weapons.%20In%20the%20sky%2C%20ethereal%20lines%20of%20code%20(representing%20cybersecurity%20an.webp'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-image: url('https://your-warrior-image-url.png'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
 
   <!-- Semi-transparent overlay -->
   <div style="background-color: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 10px;">
@@ -28,13 +28,13 @@
 
     ### 🎯 Achievements  
     - 🏆 Completed **ISO 27000** project (ISMS for banking)  
-    - 🧑‍🏫 Teaching myself **Quantum-Safe Cryptography**  
+    - �‍🏫 Teaching myself **Quantum-Safe Cryptography**  
     - 💼 Completed internships on **Pen Testing & Red Teaming**  
 
     ---
 
     ### 🌟 Stats & Contributions  
-    ![Chamod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanvanHalen&show_icons=true&theme=radical)
+    ![Chamod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamzy87&show_icons=true&theme=radical)
 
     ---
 

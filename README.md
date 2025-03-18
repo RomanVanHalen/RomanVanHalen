@@ -1,7 +1,4 @@
-<!-- Embed the image at the top -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RomanVanHalen/RomanVanHalen/main/DALL%C2%B7E%202025-03-18%2021.38.43%20-%20A%20dynamic%20image%20of%20an%20ancient%20battlefield%20at%20dusk%2C%20with%20ruins%20and%20scattered%20weapons.%20In%20the%20sky%2C%20ethereal%20lines%20of%20code%20(representing%20cybersecurity%20an.webp" alt="Ancient Battleground" width="100%">
-</p>
+
 
 <h1 align="center">Hi, I'm Chamod 👋</h1>
 
@@ -25,15 +22,11 @@
 
 ---
 
-### 🎯 Achievements  
-- 🏆 Completed **ISO 27000** project (ISMS for banking)  
-- 🧑‍🏫 Teaching myself **Quantum-Safe Cryptography**  
-- 💼 Completed internships on **Pen Testing & Red Teaming**  
 
 ---
 
 ### 🌟 Stats & Contributions  
-![Chamod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamzy87&show_icons=true&theme=radical)
+![Chamod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanVanHalen&show_icons=true&theme=radical)
 
 ---
 

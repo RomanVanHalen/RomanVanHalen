@@ -6,19 +6,65 @@
     <title>Chamod's GitHub Profile</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #121212;
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
             color: white;
             text-align: center;
-            padding: 20px;
+            padding: 50px;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
         }
         h1 {
+            font-size: 3rem;
             color: #4CAF50;
+            animation: fadeIn 2s ease-in-out;
+        }
+        p {
+            font-size: 1.2rem;
+            animation: fadeIn 3s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: 0.3s;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #45a049;
+            transform: scale(1.05);
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to My GitHub Profile!</h1>
-    <p>🚀 Cybersecurity Enthusiast | Bug Bounty Hunter | Wordsmith of Timeless Tales</p>
+    <h1>Welcome to My GitHub Profile! 🚀</h1>
+    <p>Cybersecurity Enthusiast | Bug Bounty Hunter | Wordsmith of Timeless Tales</p>
+    <button class="btn" onclick="window.location.href='https://github.com/Chamod87'">Visit My GitHub</button>
+<script>
+    function greetUser() {
+        let hour = new Date().getHours();
+        let greeting;
+        if (hour < 12) {
+            greeting = "Good Morning, Chamod! ☀️";
+        } else if (hour < 18) {
+            greeting = "Good Afternoon, Chamod! 🌤️";
+        } else {
+            greeting = "Good Evening, Chamod! 🌙";
+        }
+        document.querySelector("h1").innerText = greeting;
+    }
+    window.onload = greetUser;
+</script>
 </body>
 </html>

@@ -115,7 +115,7 @@
   <!-- Stats Section -->
   <div class="stats">
     <h3>🌟 Stats & Contributions</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=chamzy87&show_icons=true&theme=radical" alt="Chamod's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RomanVanHalen&show_icons=true&theme=radical" alt="Chamod's GitHub Stats">
   </div>
 
   <hr>

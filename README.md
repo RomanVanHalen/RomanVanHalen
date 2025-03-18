@@ -4,7 +4,7 @@
 
 ### ⚔️ A Warrior in the Digital Realm  
 - 🛡 **"For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age."** – Ephesians 6:12  
-- 🐱‍💻 **Bug Bounty Hunter** | ⚔️ **Cipher Sentinel**  
+- 🐱‍💻 **Bug Bounty Hunter** | 🛠 **Cipher Sentinel**  
 - 🎯 **Learning**: SC-900 & Advanced Security Research  
 - 📫 **Reach me at**: chamzy87@gmail.com  
 
@@ -17,7 +17,8 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F5A623?style=flat&logo=burp-suite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Web Scanning](https://img.shields.io/badge/-Web_Scanning-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![Networking Pentesting](https://img.shields.io/badge/-Networking_Pentesting-FF6F61?style=flat&logo=network&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-FF6F61?style=flat&logo=network&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-8A2BE2?style=flat&logo=security&logoColor=white)
 
 ---
 

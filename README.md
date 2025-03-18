@@ -5,82 +5,129 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chamod's Profile</title>
   <style>
-    /* Set the background image */
     body {
       margin: 0;
-      padding: 0;
-      background-image: url('https://yourimageurl.com/battleground.jpg'); /* Use the URL to your background image */
+      font-family: Arial, sans-serif;
+    }
+
+    /* Background image with coding elements */
+    .background {
+      background-image: url('https://your-battleground-image-url.jpg'); /* Replace with your battleground image */
       background-size: cover;
       background-position: center;
-      background-attachment: fixed;
-      height: 100vh; /* Full-screen height */
-      font-family: Arial, sans-serif;
-      color: white;
-    }
-
-    /* Add a dark overlay to enhance readability */
-    .overlay {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black */
-    }
-
-    /* Center content */
-    .content {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
+      padding: 100px 0;
       text-align: center;
     }
 
-    /* Style for text */
-    h1 {
-      font-size: 3em;
-      margin-bottom: 20px;
+    .background img {
+      width: 250px;
     }
 
-    p {
-      font-size: 1.2em;
+    /* Text styling */
+    h2 {
+      color: white;
     }
 
-    /* Skills container */
+    /* Styling for skills and tech */
     .skills {
-      display: flex;
-      justify-content: center;
-      margin-top: 30px;
+      text-align: center;
     }
 
     .skills img {
-      margin: 0 15px;
-      width: 40px; /* Adjust size as needed */
-      height: 40px;
+      margin: 10px;
     }
 
+    .achievements, .stats, .connect {
+      margin: 40px 0;
+      text-align: center;
+    }
+
+    .stats img {
+      width: 100%;
+      max-width: 500px;
+    }
+
+    .connect a {
+      color: #0073e6;
+      text-decoration: none;
+      font-size: 1.2em;
+    }
+    
+    .connect a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
 
-  <div class="overlay"></div> <!-- Dark overlay to improve text visibility -->
+  <!-- Background with warrior image -->
+  <div class="background">
+    <img src="https://your-warrior-image-url.png" alt="Warrior">
+  </div>
 
-  <div class="content">
-    <h1>Welcome to My Profile</h1>
-    <p>Hi, I'm Chamod 👋. Cybersecurity Enthusiast & Developer.</p>
+  <!-- Personal greeting -->
+  <h2>Hi, I'm Chamod 👋</h2>
 
-    <!-- Warrior image -->
-    <img src="https://yourimageurl.com/warrior.png" alt="Warrior" width="200px">
+  <hr>
 
-    <div class="skills">
-      <!-- Skill icons (you can use your icons or images) -->
-      <img src="https://yourimageurl.com/python-icon.png" alt="Python">
-      <img src="https://yourimageurl.com/shell-icon.png" alt="Shell">
-      <img src="https://yourimageurl.com/java-icon.png" alt="Java">
-      <img src="https://yourimageurl.com/burp-icon.png" alt="Burp Suite">
-      <img src="https://yourimageurl.com/webscan-icon.png" alt="Web Scanning">
-    </div>
+  <!-- About Me section -->
+  <div class="about">
+    <h3>⚔️ About Me</h3>
+    <p>
+      🛡 **Cybersecurity Warrior** | 🐱‍💻 **Bug Bounty Hunter**<br>
+      🛠 Building: **Red Team Tools, Web Scanners, Intrusion Detection Systems**<br>
+      🎯 Learning: **SC-900 & Advanced Security Research**<br>
+      📫 Reach me at: **chamzy87@gmail.com**
+    </p>
+  </div>
+
+  <hr>
+
+  <!-- Skills and Technologies -->
+  <div class="skills">
+    <h3>🚀 Skills & Tech</h3>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-Burp_Suite-F5A623?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite">
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux">
+    <img src="https://img.shields.io/badge/-Web_Scanning-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Web Scanning">
+    <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/-SOC-00aaff?style=flat&logo=security&logoColor=white" alt="SOC">
+    <img src="https://img.shields.io/badge/-Networking-000000?style=flat&logo=wifi&logoColor=white" alt="Networking">
+  </div>
+
+  <hr>
+
+  <!-- Achievements section -->
+  <div class="achievements">
+    <h3>🎯 Achievements</h3>
+    <p>
+      🏆 Completed **ISO 27000** project (ISMS for banking)<br>
+      🧑‍🏫 Teaching myself **Quantum-Safe Cryptography**<br>
+      💼 Completed internships on **Pen Testing & Red Teaming**
+    </p>
+  </div>
+
+  <hr>
+
+  <!-- Stats Section -->
+  <div class="stats">
+    <h3>🌟 Stats & Contributions</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=chamzy87&show_icons=true&theme=radical" alt="Chamod's GitHub Stats">
+  </div>
+
+  <hr>
+
+  <!-- Connect Section -->
+  <div class="connect">
+    <h3>🔗 Let's Connect</h3>
+    <p>
+      🌐 <a href="https://www.linkedin.com/in/chamod">LinkedIn</a><br>
+      🐦 <a href="https://twitter.com/chamod">Twitter</a><br>
+      💼 <a href="https://yourusername.github.io/">GitHub Portfolio</a>
+    </p>
   </div>
 
 </body>

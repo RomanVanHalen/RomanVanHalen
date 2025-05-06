@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: 'Poppins', sans-serif;
-            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            background: linear-gradient(135deg, #3e4b3c, #5c7553, #7d8f69); /* Army camo gradient */
             color: white;
             text-align: center;
             padding: 50px;
@@ -19,7 +19,7 @@
         }
         h1 {
             font-size: 3rem;
-            color: #4CAF50;
+            color: #a3e635; /* light lime green for contrast */
             animation: fadeIn 2s ease-in-out;
         }
         p {
@@ -51,20 +51,20 @@
     <h1>Welcome to My GitHub Profile! 🚀</h1>
     <p>Cybersecurity Enthusiast | Bug Bounty Hunter | Wordsmith of Timeless Tales</p>
     <button class="btn" onclick="window.location.href='https://github.com/Chamod87'">Visit My GitHub</button>
-<script>
-    function greetUser() {
-        let hour = new Date().getHours();
-        let greeting;
-        if (hour < 12) {
-            greeting = "Good Morning, Chamod! ☀️";
-        } else if (hour < 18) {
-            greeting = "Good Afternoon, Chamod! 🌤️";
-        } else {
-            greeting = "Good Evening, Chamod! 🌙";
+    <script>
+        function greetUser() {
+            let hour = new Date().getHours();
+            let greeting;
+            if (hour < 12) {
+                greeting = "Good Morning, Chamod! ☀️";
+            } else if (hour < 18) {
+                greeting = "Good Afternoon, Chamod! 🌤️";
+            } else {
+                greeting = "Good Evening, Chamod! 🌙";
+            }
+            document.querySelector("h1").innerText = greeting;
         }
-        document.querySelector("h1").innerText = greeting;
-    }
-    window.onload = greetUser;
-</script>
+        window.onload = greetUser;
+    </script>
 </body>
 </html>

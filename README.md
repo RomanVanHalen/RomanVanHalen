@@ -21,12 +21,7 @@
 ![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-8A2BE2?style=flat&logo=security&logoColor=white)
 
 ---
-
-### 🎯 Achievements  
-- 🏆 Completed **ISO 27000** project (ISMS for banking)  
-- 🧑‍🏫 Teaching myself **Quantum-Safe Cryptography**  
-- 💼 Completed internships on **Pen Testing & Red Teaming**  
-
+ 
 ---
 
 ### 🌟 Stats & Contributions  

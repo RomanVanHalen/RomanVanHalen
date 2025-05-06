@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chamod's GitHub Profile</title>
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-            background-color: #4CAF50; /* Green background */
-            color: white;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #fff;
-        }
-        h3 {
-            color: #eee;
-        }
-        a {
-            color: #fff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .badge {
-            margin-right: 10px;
-        }
-        .stats {
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
+
 
     <h1 align="center">Hi, I'm Chamod 👋</h1>
     <hr>
@@ -73,5 +38,4 @@
     <p>- 🐦 [Twitter](https://twitter.com/chamod)</p>
     <p>- 💼 [GitHub Portfolio](https://yourusername.github.io/)</p>
 
-</body>
-</html>
+

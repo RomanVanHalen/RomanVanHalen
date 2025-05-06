@@ -1,70 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chamod's GitHub Profile</title>
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-            background: linear-gradient(135deg, #3e4b3c, #5c7553, #7d8f69); /* Army camo gradient */
-            color: white;
-            text-align: center;
-            padding: 50px;
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-        h1 {
-            font-size: 3rem;
-            color: #a3e635; /* light lime green for contrast */
-            animation: fadeIn 2s ease-in-out;
-        }
-        p {
-            font-size: 1.2rem;
-            animation: fadeIn 3s ease-in-out;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(-10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        .btn {
-            margin-top: 20px;
-            padding: 10px 20px;
-            background-color: #4CAF50;
-            border: none;
-            color: white;
-            font-size: 1.2rem;
-            cursor: pointer;
-            transition: 0.3s;
-            border-radius: 5px;
-        }
-        .btn:hover {
-            background-color: #45a049;
-            transform: scale(1.05);
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chamod's GitHub Profile</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/military-camo.png');
+      background-size: cover;
+      background-position: center;
+      color: white;
+      text-align: center;
+      padding: 50px;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #a3e635;
+      animation: fadeIn 2s ease-in-out;
+    }
+    p {
+      font-size: 1.2rem;
+      animation: fadeIn 3s ease-in-out;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .btn {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: 0.3s;
+      border-radius: 5px;
+    }
+    .btn:hover {
+      background-color: #45a049;
+      transform: scale(1.05);
+    }
+  </style>
 </head>
 <body>
-    <h1>Welcome to My GitHub Profile! 🚀</h1>
-    <p>Cybersecurity Enthusiast | Bug Bounty Hunter | Wordsmith of Timeless Tales</p>
-    <button class="btn" onclick="window.location.href='https://github.com/Chamod87'">Visit My GitHub</button>
-    <script>
-        function greetUser() {
-            let hour = new Date().getHours();
-            let greeting;
-            if (hour < 12) {
-                greeting = "Good Morning, Chamod! ☀️";
-            } else if (hour < 18) {
-                greeting = "Good Afternoon, Chamod! 🌤️";
-            } else {
-                greeting = "Good Evening, Chamod! 🌙";
-            }
-            document.querySelector("h1").innerText = greeting;
-        }
-        window.onload = greetUser;
-    </script>
+  <h1>Welcome to My GitHub Profile! 🚀</h1>
+  <p>Cybersecurity Enthusiast | Bug Bounty Hunter | Wordsmith of Timeless Tales</p>
+  <button class="btn" onclick="window.location.href='https://github.com/Chamod87'">Visit My GitHub</button>
+  <script>
+    function greetUser() {
+      let hour = new Date().getHours();
+      let greeting;
+      if (hour < 12) {
+        greeting = "Good Morning, Chamod! ☀️";
+      } else if (hour < 18) {
+        greeting = "Good Afternoon, Chamod! 🌤️";
+      } else {
+        greeting = "Good Evening, Chamod! 🌙";
+      }
+      document.querySelector("h1").innerText = greeting;
+    }
+    window.onload = greetUser;
+  </script>
 </body>
 </html>

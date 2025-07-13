@@ -55,20 +55,14 @@ I'm a **SOC Analyst** with a strong foundation in threat detection, incident res
 
 ---
 
-### 📊 GitHub Stats
-
-![Chamod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanVanHalen&show_icons=true&theme=radical)
-
----
 
 ### 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chamod)
-- ✉️ chamzy87@gmail.com
-- 🔥 [My GitHub Portfolio](https://github.com/RomanVanHalen)
+- 💼 [LinkedIn](www.linkedin.com/in/chamodcybersec)
+- ✉️ chamod.cybersec@gmail.com
 
 ---
 
-> _"Know how attackers think — so you can defend better."_  
+> _"To gaurd with purpose is to strike without mercy."_  
 >  
-> — Chamod 🇱🇰 | SOC Analyst in the making, Red Team apprentice by passion.
+> — Chamod Lakshitha | SOC Analyst in the making, Red Team apprentice by passion.

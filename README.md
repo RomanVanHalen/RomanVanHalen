@@ -1,35 +1,74 @@
-<h1 align="center">Hi, I'm Chamod 👋</h1>
+<h1 align="center">Hey, I'm Chamod 👋</h1>
+<p align="center">SOC Analyst • Threat Hunter • Red Team Explorer</p>
 
 ---
 
-### ⚔️ A Warrior in the Digital Realm  
-- 🛡 **"For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age."** – Ephesians 6:12  
-- 🐱‍💻 **Bug Bounty Hunter** | 🛠 **Cipher Sentinel**  
-- 🎯 **Learning**: SC-900 & Advanced Security Research  
-- 📫 **Reach me at**: chamzy87@gmail.com  
+### 🧠 Who Am I?
+
+I'm a **SOC Analyst** with a strong foundation in threat detection, incident response, and log analysis — backed by hands-on experience simulating real-world attacks in lab environments. I dive deep into both sides of the security coin: defending systems and understanding how adversaries operate.
+
+> _"We are not fighting against flesh and blood enemies, but against evil rulers and authorities of the unseen world."_ — Ephesians 6:12
 
 ---
 
-### 🚀 Skills & Tech  
+### 🛡️ My Security Focus
+
+- 🧠 **Active Role**: SOC Analyst 
+- 📊 Monitoring, triaging, and responding to incidents using ELK/Wazuh/Splunk
+- 🔍 Log analysis, IOC hunting, and alert tuning
+- 🧪 Simulating real-world attacks to improve detection strategies
+- 🚀 Exploring red team tools to **strengthen blue team capabilities**
+
+---
+
+### 🧰 Tools & Technologies
+
+![SIEM](https://img.shields.io/badge/-SIEM-003B71?style=flat&logo=elastic&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F5A623?style=flat&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Web Scanning](https://img.shields.io/badge/-Web_Scanning-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-FF6F61?style=flat&logo=network&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-8A2BE2?style=flat&logo=security&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-0053A0?style=flat&logo=windows-terminal&logoColor=white)
+![Suricata](https://img.shields.io/badge/-Suricata-FC5130?style=flat&logo=fluentd&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Sysmon](https://img.shields.io/badge/-Sysmon-2B303A?style=flat&logo=windows&logoColor=white)
+![Windows Event Logs](https://img.shields.io/badge/-Windows_Logs-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
- 
+
+### 🧪 Labs, Projects & Simulations
+
+| Project | Description |
+|--------|-------------|
+| 🔑 [Stealth Keylogger]| Simulated keylogging attack for red team awareness & detection lab |
+| 🧠 Phishing Lab (WIP) | Capture credentials, log IPs, analyze attacker TTPs |
+| 🧨 Custom Intrusion Detection System | Lightweight IDS for detecting brute-force & suspicious commands |
+| 🕵️ PhishSentinel (WIP) | Phishing detection engine analyzing URLs, headers, and HTML patterns |
+
 ---
 
-### 🌟 Stats & Contributions  
+### 📖 Currently Learning
+
+- 🔍 Advanced Threat Detection Techniques (Sigma, YARA)
+- 🧠 Windows Internals for Detection Engineering
+- 🎯 SC-900 Microsoft Security Fundamentals
+- 🛠 Threat Simulation & Purple Teaming
+
+---
+
+### 📊 GitHub Stats
+
 ![Chamod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanVanHalen&show_icons=true&theme=radical)
 
 ---
 
-### 🔗 Let's Connect  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/chamod)  
-- 🐦 [Twitter](https://twitter.com/chamod)  
-- 💼 [GitHub Portfolio](https://yourusername.github.io/)
+### 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/chamod)
+- ✉️ chamzy87@gmail.com
+- 🔥 [My GitHub Portfolio](https://github.com/RomanVanHalen)
+
+---
+
+> _"Know how attackers think — so you can defend better."_  
+>  
+> — Chamod 🇱🇰 | SOC Analyst in the making, Red Team apprentice by passion.

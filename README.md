@@ -97,8 +97,8 @@ class ThreatHunter:
 
 | PROJECT | CLASSIFICATION | TECH STACK | STATUS |
 |---------|---------------|------------|---------|
-| 🕶️ **QuantumKeylogger** | `[CLASSIFIED]` | `Python`  | 🔴 ACTIVE |
-| 🎣 **PhishNet-AI** | `[TOP SECRET]` | `Python` | ⚡ DEPLOYED |
+| 🕶️ **Keylogger** | `[CLASSIFIED]` | `Python`  | 🔴 ACTIVE |
+| 🎣 **PhishNet** | `[TOP SECRET]` | `Python` | ⚡ DEPLOYED |
 | 🛡️ **Security Onion** | `[RESTRICTED]` | `Suricata` | 🚀 LIVE |
 | ⚔️ **RedStorm-Toolkit** | `[EYES ONLY]` | `Python` + `Docker` | 🔥 OPERATIONAL |
 | 🧬 **IDS** | `[CONFIDENTIAL]` | `Python` + `Flask` | ⭐ PROTOTYPE |

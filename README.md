@@ -1,7 +1,8 @@
 <div align="center">
 
-# 🔰 Hello there!! I'm Chamod 🔰
-### `[CYBER_WARFARE_SPECIALIST]` • `[THREAT_NEUTRALIZER]` • `[DIGITAL_GUARDIAN]`
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=600&lines=%F0%9F%94%B0+Hello+there!!+I'm+Chamod+%F0%9F%94%B0" alt="Title Animation" />
+
+### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=CYBER_WARFARE_SPECIALIST;THREAT_NEUTRALIZER;DIGITAL_GUARDIAN" alt="Role Animation" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=ACCESSING+NEURAL+NETWORK...;THREAT+DETECTION+PROTOCOLS+ACTIVE;DEFENSIVE+SYSTEMS+ONLINE+%E2%9C%85;RED+TEAM+SIMULATION+ENGAGED+🔴" alt="Matrix Loading" />
 
@@ -11,9 +12,9 @@
 
 ```ascii
     ╔═══════════════════════════════════════════════════════════════╗
-    ║  🔹 DESIGNATION: Senior SOC Analyst & Threat Hunter           ║
+    ║  🔹 DESIGNATION: Junior SOC Analyst & Threat Hunter           ║
     ║  🔹 SPECIALIZATION: Advanced Persistent Threat Detection     ║  
-    ║  🔹 CLEARANCE LEVEL: Red Team Operator                       ║
+    ║  🔹 CLEARANCE LEVEL: Blue Team Operator                       ║
     ║  🔹 NEURAL ENHANCEMENT: AI-Assisted Security Analysis        ║
     ║  🔹 STATUS: [ACTIVE] - Always Monitoring, Always Learning    ║
     ╚═══════════════════════════════════════════════════════════════╝
@@ -30,7 +31,7 @@
 ### 🛡️ DEFENSIVE MATRIX
 <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,terraform,ansible,grafana,prometheus&theme=dark" width="400"/>
 
-### 🔍 THREAT INTELLIGENCE SUITE  
+### 🔍 THREAT INTELLIGENCE SUITE
 <img src="https://img.shields.io/badge/🔥_ElasticStack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/⚡_Splunk_Enterprise-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=FF6B35"/>
 <img src="https://img.shields.io/badge/🛡️_Wazuh_HIDS-21425E?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=4A90E2"/>

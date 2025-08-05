@@ -4,7 +4,7 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=CYBER_WARFARE_SPECIALIST;THREAT_NEUTRALIZER;DIGITAL_GUARDIAN" alt="Role Animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=ACCESSING+NEURAL+NETWORK...;THREAT+DETECTION+PROTOCOLS+ACTIVE;DEFENSIVE+SYSTEMS+ONLINE+%E2%9C%85;RED+TEAM+SIMULATION+ENGAGED+🔴" alt="Matrix Loading" />
+
 
 ---
 
@@ -28,26 +28,24 @@
 
 <div align="center">
 
-### 🛡️ DEFENSIVE MATRIX
+### 
 <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,terraform,ansible,grafana,prometheus&theme=dark" width="400"/>
 
-### 🔍 THREAT INTELLIGENCE SUITE
+### 
 <img src="https://img.shields.io/badge/🔥_ElasticStack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/⚡_Splunk_Enterprise-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=FF6B35"/>
 <img src="https://img.shields.io/badge/🛡️_Wazuh_HIDS-21425E?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=4A90E2"/>
 <img src="https://img.shields.io/badge/🕷️_CrowdStrike-FF0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
 
-### 🎯 OFFENSIVE CAPABILITIES
 <img src="https://img.shields.io/badge/💥_Metasploit_Pro-258CFF?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1A1A2E"/>
 <img src="https://img.shields.io/badge/🔥_Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=16213E"/>
 <img src="https://img.shields.io/badge/🗡️_Cobalt_Strike-FF4757?style=for-the-badge&logoColor=white&labelColor=2F3542"/>
 
-### 🧠 AI/ML AUGMENTATION
 <img src="https://img.shields.io/badge/🤖_TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=263238"/>
 <img src="https://img.shields.io/badge/⚡_PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1C1E21"/>
 <img src="https://img.shields.io/badge/🐍_Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B"/>
 
-### 🌐 QUANTUM PROTOCOLS
+
 <img src="https://img.shields.io/badge/⚡_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=171E26"/>
 <img src="https://img.shields.io/badge/🔗_Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white&labelColor=F7931A"/>
 <img src="https://img.shields.io/badge/☁️_AWS_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900"/>
@@ -119,7 +117,7 @@ class ThreatHunter:
 + Blockchain Security & Smart Contracts   ██████████░░░░░░░░░░  50%
 ```
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chamod&theme=neon-dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF0080&fire=00D9FF&currStreakLabel=00D9FF" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RomanVanHalen&theme=neon-dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF0080&fire=00D9FF&currStreakLabel=00D9FF" width="400"/>
 
 </div>
 
@@ -137,9 +135,9 @@ class ThreatHunter:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chamod&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF0080&text_color=FFFFFF" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RomanVanHalen&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF0080&text_color=FFFFFF" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod&layout=compact&theme=neon&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="400"/>
+
 
 </div>
 

@@ -169,7 +169,6 @@ class ThreatHunter:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=chamod&color=00D9FF&style=for-the-badge&label=NEURAL+SCANS" alt="Neural Scans"/>
 
 **`[TRANSMISSION_END]`** • **`[CHAMOD.EXE_TERMINATED]`** • **`[STAY_VIGILANT]`**
 
